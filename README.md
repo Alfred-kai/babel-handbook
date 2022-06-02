@@ -7,4 +7,4 @@ fork自 [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbo
 A guided handbook on how to use Babel7 and how to create plugins for Babel.
 
 **Translations**
-- [中文](https://github.com/thejameskyle/babel-handbook/tree/master/translations/zh-Hans/README.md)
+- [中文](https://github.com/Alfred-kai/babel-handbook/tree/master/translations/zh-Hans)

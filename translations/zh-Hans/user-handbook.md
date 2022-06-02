@@ -219,6 +219,7 @@ console.log("Hello world!");
 
 验证是否生效，可以在node项目中，使用import语法来引入文件，看是否能够正常运行
 
+
 ## <a id="toc-babel-node"></a>`babel-node`
 
 如果你要用 `node` CLI 来运行代码，那么整合 Babel 最简单的方式就是使用 `babel-node` CLI，它是 `node` CLI 的替代品。
